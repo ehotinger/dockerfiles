@@ -1,0 +1,2 @@
+# A blank dockerfile for 16.04
+FROM ubuntu:16.04
